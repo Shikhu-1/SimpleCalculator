@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="result_placeholder">Result: 0</string>
+    <string name="error_empty_fields">Please enter numbers in both fields</string>
+    <string name="error_invalid_input">Invalid input. Please enter numbers.</string>
+    <string name="error_divide_by_zero">Cannot divide by zero</string>
+    <string name="hint_number_1">Number 1</string>
+    <string name="hint_number_2">Number 2</string>
+    <string name="btn_add">+</string>
+    <string name="btn_subtract">-</string>
+    <string name="btn_multiply">*</string>
+    <string name="btn_divide">/</string>
+    <string name="btn_clear">Clear</string>
+</resources>
