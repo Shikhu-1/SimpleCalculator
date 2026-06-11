@@ -114,7 +114,7 @@
         android:textColor="@color/result_text"
         android:textStyle="bold"
         android:gravity="center"
-        android:padding="18dp"
+        android:padding="20dp"
         android:background="@color/result_background"
         android:minHeight="70dp" />
 </LinearLayout>
