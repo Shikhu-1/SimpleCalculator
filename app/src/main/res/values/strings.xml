@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  App name  -->
+    <string name="app_name">Simple Calculator</string>
+    <!--  Title displayed on screen  -->
+    <string name="app_title">Simple Calculator</string>
+    <!--  Input field hints  -->
+    <string name="hint_number1">Enter first number</string>
+    <string name="hint_number2">Enter second number</string>
+    <!--  Button labels  -->
+    <string name="btn_add">+</string>
+    <string name="btn_subtract">−</string>
+    <string name="btn_multiply">×</string>
+    <string name="btn_divide">÷</string>
+    <string name="btn_clear">Clear</string>
+    <!--  Result display  -->
+    <string name="result_placeholder">Result will appear here</string>
+    <!--  Error messages  -->
+    <string name="error_empty_fields">⚠ Please enter both numbers</string>
+    <string name="error_divide_by_zero">⚠ Error: Cannot divide by zero</string>
+    <string name="error_invalid_input">⚠ Error: Invalid number entered</string>
+</resources>
