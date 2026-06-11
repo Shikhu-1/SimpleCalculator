@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!--  Primary brand color (deep amber/honey - beekeeping themed)  -->
+
     <color name="primary">#E67E22</color>
     <color name="primary_dark">#CA6F1E</color>
-    <!--  Backgrounds  -->
     <color name="background">#FDF8F0</color>
     <color name="result_background">#FEF9E7</color>
-    <!--  Text colors  -->
     <color name="text_dark">#2C3E50</color>
     <color name="hint_color">#AAAAAA</color>
     <color name="result_text">#1A5276</color>
     <color name="white">#FFFFFF</color>
-    <!--  Clear button (red tone)  -->
     <color name="clear_button">#E74C3C</color>
     <color name="clear_button_dark">#CB4335</color>
-    <!--  Status bar  -->
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
